@@ -1,4 +1,4 @@
-package concurrence.lock;
+package lock;
 
 import java.util.concurrent.TimeUnit;
 import java.util.concurrent.locks.Lock;
